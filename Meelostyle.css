@@ -786,7 +786,7 @@ img.logo-icon {
 ====================================== */
 
 #services {
-    background-color: #031e23;
+    background-color:black;
 }
 
 #services h2.entry-title,
@@ -814,8 +814,8 @@ img.logo-icon {
 }
 
 .service-num {
-    font-size: 16px;
-    color: #dc6041;
+    height: 50px;
+    width:50px;
     line-height: 100%;
 }
 
@@ -2074,7 +2074,7 @@ footer ul {
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center top;
-    background-color: #021619;    
+    background-color:grey;    
 }
 
 .footer-content {    
@@ -2087,8 +2087,8 @@ footer ul {
 }
 
 .footer-logo img {
-    width: 57px;
-    height: 122px;
+    width: 200px;
+    height: 250px;
     margin-bottom: 70px;
 }
 
